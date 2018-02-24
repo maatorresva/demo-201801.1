@@ -29,5 +29,7 @@ este es otro texto. Ejemplo de codigo en python
 
 ## sección 3
 
-Haga click [aqui](www.google.com) para ir a google.
-este es otro texto más
+este es otro texto más.
+
+Haga click [aqui](https://www.google.com) para ir a google.
+
