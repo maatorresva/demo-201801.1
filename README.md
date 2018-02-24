@@ -16,6 +16,7 @@ este es un texto
 * este es el item 2
 * este es el item 3
   * este es un subitem
+  * este es un subitem
 
 
 ## sección 2
